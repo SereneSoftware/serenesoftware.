@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Aanya Banner" width="100%">
+</p>
+
 # ⭐ Hey, I am Aanya!
 
 🎓**Currently pursuing B.Tech CSE (AI) | 💻 Exploring **coding, AI, and Software Tools**

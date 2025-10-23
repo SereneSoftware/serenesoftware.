@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Aanya Banner" width="100%">
+  <img src="Github banner.png" alt="Aanya Banner" width="100%">
 </p>
 
 # ⭐ Hey, I am Aanya!
